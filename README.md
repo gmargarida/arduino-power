@@ -1,4 +1,4 @@
 arduino-power
 =============
 
-Arduino project to control the powerswitch tail
+Arduino project to control the powerswitch tail.
